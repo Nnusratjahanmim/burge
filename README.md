@@ -1,3 +1,3 @@
 # burge
 Great repository
-https://nnusratjahanmim.github.io/burge/.
+https://nnusratjahanmim.github.io/burge/
